@@ -44,7 +44,3 @@ I'm a **Senior Software Engineer** at Razorpay, where I work on high-scale **pay
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhroov-gupta/)
 - 🧠 I’m open to collaboration on backend-focused open-source projects
 - 🛠️ Currently working toward a **strong GitHub presence** and growing as a **Lead Engineer**
-
----
-
-_“Build systems that scale, teams that grow, and skills that never stop evolving.”_
